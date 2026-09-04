@@ -1,0 +1,6 @@
+{
+  "name": "VECTOR - NER Government Command Portal",
+  "description": "Vehicle & Emergency Connectivity for Transport Operations & Routing - Centralized Government Logistics, Road Intelligence, and Emergency Response Command Center for the North Eastern Region.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
